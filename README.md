@@ -15,6 +15,7 @@ Deze tekst staat op
 de volgende regel omdat er een regel tussen gelaten is.
 
 python code doe je als volgt
-Python
+```Python
 print("hallo")
+```
 
