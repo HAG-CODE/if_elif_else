@@ -14,6 +14,12 @@ Deze tekst staat op
 
 de volgende regel omdat er een regel tussen gelaten is.
 
+Deze tekst staat ook op  
+de volgende regel omdat er 2 spaties zijn gebruikt.
+
+Deze tekst staat ook op <br>
+de volgende regel omdat ```<br>``` is gebruikt
+
 python code doe je als volgt
 ```Python
 print("hallo")
